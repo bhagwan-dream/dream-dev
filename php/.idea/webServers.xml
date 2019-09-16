@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3da8bd92-e26f-40a9-92fc-6089ad8eb44e" name="Dream-Production" url="http://63.32.95.133">
+        <fileTransfer host="63.32.95.133" port="22" privateKey="$USER_HOME$/Documents/blueServer/DreamExch9-Live.ppk" rootFolder="/var/www/dreamexch9.com/html/php" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9e04692f-dcae-4f35-806e-fcbda069442b" name="DevNew" url="http://54.154.228.26">
+        <fileTransfer host="54.154.228.26" port="22" privateKey="$USER_HOME$/Documents/blueServer/DreamExch9-Dev.ppk" rootFolder="/var/www/html/php" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eb738e96-7730-49ee-a7e8-ec3ed937ab7d" name="Dream-Productio 2" url="http://52.210.99.109">
+        <fileTransfer host="52.210.99.109" port="22" privateKey="$USER_HOME$/Documents/blueServer/DreamExch9-Live.ppk" rootFolder="/var/www/dreamexch9.com/html/php" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

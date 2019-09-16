@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f0b94bf-178f-4923-833b-7aaba47ac415" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///tmp/fz3temp-2/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-&gt;one();</find>
+      <find>Jackpot Expose</find>
+      <find>function getProfitLossFancyOnZero</find>
+      <find>getProfitLossFancyOnZero</find>
+      <find>\Yii::$app-&gt;db-&gt;createCommand()-&gt;</find>
+      <find>\Yii::$app-&gt;db-&gt;createCommand()</find>
+      <find>getEventName</find>
+      <find>checkMarketStatus</find>
+      <find>getDescription</find>
+      <find>clientCommissionRate</find>
+      <find>999999</find>
+      <find>getUserFancyArray</find>
+      <find>getDataManualSessionFancy</find>
+      <find>getProfitLossFancy</find>
+      <find>&quot;error&quot;=&gt; 1,</find>
+      <find>99999</find>
+      <find>matchodd</find>
+      <find>between</find>
+      <find>getDataTeenPatti</find>
+      <find>join</find>
+      <find>actionRe</find>
+      <find>actionUpdate</find>
+      <find>blocku</find>
+      <find>$marketList7</find>
+      <find>actionUpdateTransactionTable</find>
+      <find>getEventNameNew</find>
+      <find>getAllUserForSuperMaster</find>
+      <find>actionBlockUnblockEvent</find>
+      <find>actionUpdateManualS</find>
+      <find>runners</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/tmp/fz3temp-2/AppDetailController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/users/controllers/GetOddsController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppCricketController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/ListController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/BetPlaceController.php" />
+        <option value="$PROJECT_DIR$/../test/DevServer/UserDataController.php" />
+        <option value="$PROJECT_DIR$/../test/DevServer/aController.php" />
+        <option value="$PROJECT_DIR$/../test/DevServer/AppDetailController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/GameRecallController.php" />
+        <option value="/tmp/fz3temp-2/aController.php" />
+        <option value="/tmp/fz3temp-2/auth.php" />
+        <option value="$PROJECT_DIR$/common/models/TeenPattiResult.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/DetailController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/TeenPattiController.php" />
+        <option value="$PROJECT_DIR$/if.php" />
+        <option value="/tmp/fz3temp-2/PokerController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/users/controllers/HistoryController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/users/controllers/UserDataController.php" />
+        <option value="/tmp/fz3temp-2/UserDataController.php" />
+        <option value="$PROJECT_DIR$/api/controllers/EventCronJobController__.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/controllers/AuthController.php" />
+        <option value="/tmp/fz3temp-2/CricketController.php" />
+        <option value="/tmp/fz3temp-2/DashbordController.php" />
+        <option value="$PROJECT_DIR$/common/models/UserProfitLoss.php" />
+        <option value="/tmp/fz3temp-2/EventCronJobController 2.php" />
+        <option value="/tmp/fz3temp-2/UserProfitLoss.php" />
+        <option value="$USER_HOME$/Downloads/history/TransactionController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/CricketJackpotController.php" />
+        <option value="$PROJECT_DIR$/api/controllers/EventCronJobController.php" />
+        <option value="$PROJECT_DIR$/common/controllers/aController.php" />
+        <option value="$PROJECT_DIR$/../test/teenpatti.php" />
+        <option value="/tmp/fz3temp-2/EventCronJobController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/GameOverController.php" />
+        <option value="$PROJECT_DIR$/api/controllers/PokerGameOverController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/users/controllers/AppHistoryController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/users/controllers/DashbordController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/users/controllers/TransactionController.php" />
+        <option value="/tmp/fz3temp-2/main-local.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/CricketController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/FootballController.php" />
+        <option value="/tmp/fz3temp-2/index.php" />
+        <option value="/tmp/fz3temp-2/main-local 2.php" />
+        <option value="/tmp/fz3temp-2/main-local 3.php" />
+        <option value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers/TennisController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppListController.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppBetPlaceController.php" />
+        <option value="$PROJECT_DIR$/teenpatti/index.php" />
+        <option value="$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppDetailController.php" />
+        <option value="$PROJECT_DIR$/api/controllers/PokerController.php" />
+        <option value="$USER_HOME$/.cache/.fr-f1Nmbo/common/config/main-local.php" />
+        <option value="$PROJECT_DIR$/common/config/main-local.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/stecman/symfony-console-completion" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/common" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/pclzip/pclzip" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-redis" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-httpclient" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="973" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php_live" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_live" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_live" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_live" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="php_live" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php_live" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/modules/v1/modules/events/controllers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../php/api/modules/v1/modules/events/controllers/CricketController.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/modules/v1/modules/events/controllers" />
+      <recent name="$PROJECT_DIR$/api/controllers" />
+      <recent name="$PROJECT_DIR$/common/models" />
+      <recent name="$PROJECT_DIR$/common/controllers" />
+      <recent name="$PROJECT_DIR$/api/modules/v1/modules/users/controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f0b94bf-178f-4923-833b-7aaba47ac415" name="Default Changelist" comment="" />
+      <created>1556189420425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556189420425</updated>
+      <workItem from="1556189422543" duration="2420000" />
+      <workItem from="1556268383314" duration="20041000" />
+      <workItem from="1556346511582" duration="18066000" />
+      <workItem from="1556436678342" duration="10891000" />
+      <workItem from="1556515055036" duration="27618000" />
+      <workItem from="1556601966198" duration="20903000" />
+      <workItem from="1556687251809" duration="16217000" />
+      <workItem from="1556773732352" duration="25366000" />
+      <workItem from="1556860598565" duration="14668000" />
+      <workItem from="1556959138807" duration="20113000" />
+      <workItem from="1557029122394" duration="19045000" />
+      <workItem from="1557120125567" duration="9023000" />
+      <workItem from="1557144684329" duration="5531000" />
+      <workItem from="1557206659209" duration="26315000" />
+      <workItem from="1557292698460" duration="10189000" />
+      <workItem from="1557316047255" duration="9469000" />
+      <workItem from="1557465901295" duration="13706000" />
+      <workItem from="1557551920907" duration="15972000" />
+      <workItem from="1557724300477" duration="15763000" />
+      <workItem from="1561359211026" duration="6271000" />
+      <workItem from="1561549882661" duration="1057000" />
+      <workItem from="1561618231761" duration="5116000" />
+      <workItem from="1561630820289" duration="10471000" />
+      <workItem from="1561700768346" duration="2020000" />
+      <workItem from="1561718608835" duration="10520000" />
+      <workItem from="1561960998216" duration="10189000" />
+      <workItem from="1562053497976" duration="3913000" />
+      <workItem from="1562059575288" duration="7659000" />
+      <workItem from="1562135092680" duration="6748000" />
+      <workItem from="1562308076699" duration="9605000" />
+      <workItem from="1562564979438" duration="8867000" />
+      <workItem from="1562736089967" duration="26227000" />
+      <workItem from="1563189401740" duration="2246000" />
+      <workItem from="1563253205615" duration="20326000" />
+      <workItem from="1563339405311" duration="7132000" />
+      <workItem from="1563357825677" duration="2566000" />
+      <workItem from="1563364188889" duration="1244000" />
+      <workItem from="1563367401541" duration="4612000" />
+      <workItem from="1563425010763" duration="22054000" />
+      <workItem from="1563511407468" duration="5094000" />
+      <workItem from="1563531316622" duration="10351000" />
+      <workItem from="1563599592294" duration="4123000" />
+      <workItem from="1563604894900" duration="1043000" />
+      <workItem from="1563606489696" duration="3726000" />
+      <workItem from="1563615518607" duration="13257000" />
+      <workItem from="1563772081991" duration="1970000" />
+      <workItem from="1563780220435" duration="11102000" />
+      <workItem from="1563796246075" duration="6045000" />
+      <workItem from="1563856313880" duration="24533000" />
+      <workItem from="1563943328837" duration="2115000" />
+      <workItem from="1563946797352" duration="7769000" />
+      <workItem from="1563957331238" duration="3443000" />
+      <workItem from="1563960830688" duration="1975000" />
+      <workItem from="1563963471827" duration="293000" />
+      <workItem from="1563964330950" duration="6602000" />
+      <workItem from="1564029935053" duration="2045000" />
+      <workItem from="1564034791664" duration="12752000" />
+      <workItem from="1564054458494" duration="9117000" />
+      <workItem from="1564116875300" duration="3267000" />
+      <workItem from="1564123776826" duration="15417000" />
+      <workItem from="1564376137402" duration="19717000" />
+      <workItem from="1564403649382" duration="6610000" />
+      <workItem from="1564463005424" duration="5868000" />
+      <workItem from="1564471337644" duration="7764000" />
+      <workItem from="1564486106046" duration="10626000" />
+      <workItem from="1564549080117" duration="5091000" />
+      <workItem from="1564555542873" duration="10708000" />
+      <workItem from="1564569032322" duration="174000" />
+      <workItem from="1564569290419" duration="375000" />
+      <workItem from="1564569816415" duration="3620000" />
+      <workItem from="1564575477447" duration="4194000" />
+      <workItem from="1564633807979" duration="5169000" />
+      <workItem from="1564641174028" duration="10308000" />
+      <workItem from="1564663038675" duration="3936000" />
+      <workItem from="1564721837544" duration="1315000" />
+      <workItem from="1564723517683" duration="2285000" />
+      <workItem from="1564735636219" duration="13752000" />
+      <workItem from="1564980300320" duration="10893000" />
+      <workItem from="1564998306725" duration="971000" />
+      <workItem from="1565000390883" duration="1499000" />
+      <workItem from="1565004774484" duration="11000" />
+      <workItem from="1565004945180" duration="8434000" />
+      <workItem from="1565066314064" duration="7140000" />
+      <workItem from="1565080388244" duration="1315000" />
+      <workItem from="1565083275630" duration="9833000" />
+      <workItem from="1565153953773" duration="7630000" />
+      <workItem from="1565180349854" duration="4104000" />
+      <workItem from="1565239943546" duration="6705000" />
+      <workItem from="1565256844471" duration="658000" />
+      <workItem from="1565258156410" duration="15010000" />
+      <workItem from="1565327771412" duration="6938000" />
+      <workItem from="1565342294353" duration="8438000" />
+      <workItem from="1565411755076" duration="19507000" />
+      <workItem from="1565585699194" duration="26168000" />
+      <workItem from="1565671514828" duration="14983000" />
+      <workItem from="1566213347674" duration="10347000" />
+      <workItem from="1566278327066" duration="19837000" />
+      <workItem from="1566362003123" duration="27702000" />
+      <workItem from="1566453021631" duration="22607000" />
+      <workItem from="1566535302891" duration="18286000" />
+      <workItem from="1566622454748" duration="24720000" />
+      <workItem from="1566708726071" duration="23228000" />
+      <workItem from="1566794569702" duration="25613000" />
+      <workItem from="1566882280268" duration="20583000" />
+      <workItem from="1566969396916" duration="23870000" />
+      <workItem from="1567054281767" duration="26460000" />
+      <workItem from="1567139855344" duration="22734000" />
+      <workItem from="1567227580767" duration="18112000" />
+      <workItem from="1567400466475" duration="19290000" />
+      <workItem from="1567486492538" duration="22654000" />
+      <workItem from="1567573652571" duration="8363000" />
+      <workItem from="1567587203942" duration="15797000" />
+      <workItem from="1567659368382" duration="25036000" />
+      <workItem from="1567745172802" duration="25536000" />
+      <workItem from="1568006894547" duration="21298000" />
+      <workItem from="1568091229942" duration="22907000" />
+      <workItem from="1568177807240" duration="19355000" />
+      <workItem from="1568353035447" duration="22363000" />
+      <workItem from="1568436412681" duration="24893000" />
+      <workItem from="1568467364934" duration="825000" />
+      <workItem from="1568609310668" duration="1103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1404828000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1013" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49943116" visible="true" weight="0.26840982" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" order="12" visible="true" weight="0.11262798" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.2497332" />
+      <window_info anchor="right" id="Structure" order="4" sideWeight="0.5005688" visible="true" weight="0.18409818" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../test/DevServer/aController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="1250" column="27" lean-forward="true" selection-start-line="1250" selection-start-column="27" selection-end-line="1250" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/DevServer/UserDataController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1427">
+          <caret line="1314" column="5" lean-forward="true" selection-start-line="1314" selection-start-column="5" selection-end-line="1314" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/DevServer/AppDetailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="1349" column="5" selection-start-line="1193" selection-start-column="4" selection-end-line="1349" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/aController.php" />
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/GameRecallController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="495" selection-start-line="495" selection-end-line="495" />
+          <folding>
+            <element signature="e#60#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/auth.php" />
+    <entry file="file://$PROJECT_DIR$/common/models/TeenPattiResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/events/controllers/DetailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="461" column="52" selection-start-line="461" selection-start-column="52" selection-end-line="461" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/TeenPattiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/users/controllers/HistoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1301" selection-start-line="1301" selection-end-line="1301" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/DashbordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3001" column="4" selection-start-line="3001" selection-start-column="4" selection-end-line="3144" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/PokerController.php" />
+    <entry file="file:///tmp/fz3temp-2/UserDataController.php" />
+    <entry file="file://$PROJECT_DIR$/api/controllers/EventCronJobController__.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/CricketController.php" />
+    <entry file="file:///tmp/fz3temp-2/DashbordController.php" />
+    <entry file="file:///tmp/fz3temp-2/EventCronJobController 2.php" />
+    <entry file="file:///tmp/fz3temp-2/UserProfitLoss.php" />
+    <entry file="file://$USER_HOME$/Downloads/history/TransactionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="266" column="40" lean-forward="true" selection-start-line="266" selection-start-column="40" selection-end-line="266" selection-end-column="40" />
+          <folding>
+            <element signature="e#48655#69028#0#PHP" />
+            <element signature="e#69037#71186#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/models/UserProfitLoss.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="487" column="13" selection-start-line="487" selection-start-column="13" selection-end-line="487" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/users/controllers/ClientController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="237" column="42" selection-start-line="237" selection-start-column="8" selection-end-line="237" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/CricketJackpotController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="554" column="51" selection-start-line="554" selection-start-column="51" selection-end-line="554" selection-end-column="51" />
+          <folding>
+            <element signature="e#60#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/users/controllers/HistoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="98" column="17" selection-start-line="91" selection-start-column="16" selection-end-line="98" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/controllers/cController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="171" column="50" selection-start-line="171" selection-start-column="27" selection-end-line="171" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/teenpatti.php" />
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="104" column="42" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/controllers/aController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="3073" column="21" selection-start-line="3073" selection-start-column="21" selection-end-line="3073" selection-end-column="21" />
+          <folding>
+            <element signature="e#38#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/EventCronJobController.php" />
+    <entry file="file://$PROJECT_DIR$/api/controllers/EventCronJobController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1979" selection-start-line="1979" selection-end-line="2142" selection-end-column="5" />
+          <folding>
+            <element signature="e#35#68#0#PHP" expanded="true" />
+            <element signature="e#81879#88236#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/users/controllers/AppHistoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1666" column="62" lean-forward="true" selection-start-line="1666" selection-start-column="62" selection-end-line="1666" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/users/controllers/UserDataController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="988" column="42" lean-forward="true" selection-start-line="988" selection-start-column="42" selection-end-line="988" selection-end-column="42" />
+          <folding>
+            <element signature="e#2188#2568#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/controllers/PokerGameOverController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="453" column="63" lean-forward="true" selection-start-line="453" selection-start-column="63" selection-end-line="453" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/GameOverController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="541" column="51" lean-forward="true" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
+          <folding>
+            <element signature="e#60#93#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/users/controllers/TransactionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="1725" column="45" lean-forward="true" selection-start-line="1725" selection-start-column="45" selection-end-line="1725" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/users/controllers/DashbordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="495" column="29" lean-forward="true" selection-start-line="495" selection-start-column="29" selection-end-line="495" selection-end-column="29" />
+          <folding>
+            <element signature="e#59#109#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/index.php" />
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/FootballController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/CricketController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/main-local 3.php" />
+    <entry file="file:///tmp/fz3temp-2/main-local 2.php" />
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppListController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="50" column="53" lean-forward="true" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppBetPlaceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="781" selection-start-line="781" selection-end-line="781" />
+          <folding>
+            <element signature="e#60#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v1/modules/events/controllers/TennisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="60" column="44" selection-start-line="60" selection-start-column="44" selection-end-line="60" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teenpatti/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="108" column="45" selection-start-line="108" selection-start-column="45" selection-end-line="108" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/modules/v2/modules/events/controllers/AppDetailController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="756" lean-forward="true" selection-start-line="756" selection-end-line="756" />
+          <folding>
+            <element signature="e#61#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/controllers/PokerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="821" lean-forward="true" selection-start-line="821" selection-end-line="821" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/.fr-f1Nmbo/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///tmp/fz3temp-2/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

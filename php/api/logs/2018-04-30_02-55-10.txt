@@ -1,0 +1,30 @@
+
+Init Cron Process for consent id 10 at 2018-04-30 02:55:10 PM
+
+Init Cron Process for consent id 11 at 2018-04-30 02:55:10 PM
+SubmitOneKeyToMIM Request : [{ "onekeyEid": "WTRM0000000401", "entityType": "ACTIVITY" }]
+SubmitOneKeyToMIM Response : {"success":{"response":{"addPopulationKeyOutputFormatVersion":1.1,"success":true,"status":"SUCCESS","resultSize":1,"activityCount":1,"individualCount":0,"workplaceCount":0,"errorCount":0,"errorMessages":[]}}}
+Updated Status to 30
+MIIndiavidual Request : https://test-mdigital-emea-mi.sfe.iqvia.com/MobileIntelligence/v1/Individual_API?$filter=CLIENT_INDIVIDUAL_IDENTIFIER+eq+'WTRM00000004'
+MIIndiavidual Response : {"success":{"@odata.context":"http://test-mdigital-emea-mi.sfe.iqvia.com/MobileIntelligence/v1/$metadata#Individual_API","value":[{"CUSTOMER_TYPE_CODE":"PRES","LAST_NAME":"AY","FIRST_NAME":"ALAADDİN","MIDDLE_NAME":null,"CONTACT_SUFFIX":null,"SALUTATION_NAME":null,"ALTERNATIVE_NAME":null,"LAST_NAME_2":null,"ACRONYM_NAME":null,"APPOINTMENT_REQUIRED_FLAG":null,"ME_NUMBER":"WTRM00000004","CLIENT_INDIVIDUAL_IDENTIFIER":"WTRM00000004","STATUS_CODE":"ACTV","STATUS_CHANGE_DATE":"1998-04-06","CALL_CLASS_CODE":null,"STATUS_CHANGE_REASON_CODE":null,"SAMPLING_STATUS_CODE":null,"VALIDATION_STATUS_CODE":"VALD","VALIDATION_CHANGE_REASON_CODE":null,"VALIDATION_CHANGE_DATE":null,"EXTERNAL_RATING_CODE":null,"TARGETING_CLASSIFICATION_CODE":null,"MASTER_INDIVIDUAL_IDENTIFIER":null,"ACCOUNT_TYPE_CODE":null,"COUNTRY_CODE":"TR","CREATE_DATE":"1998-04-06T00:00:00Z","UPDATE_DATE":"2014-05-06","REGION_IDENTIFIER":7888500000098715,"HO_BUSINESS_TYPE_CODE":null,"SORT_NAME":null,"CLASS_CODE":"002G","REASON_CODE":"000L","BUSINESS_UNIT_IDENTIFIER":null,"DETAILED_STATUS_CODE":"0001","WEAK_FLAG":null,"CHECK_DATE":"2016-12-27T00:00:00Z","IND_NO_EXPORT_FLAG":null,"LAST_UPDATE_DATE":null,"PROFESSIONAL_TYPE_CODE":"0006","PREFIXNAME_CODE":"001B","PROFESSIONAL_SUFFIX_CODE":null,"FIRST_NAME_2":null,"MAIDEN_NAME":null,"MAIDEN_NAME_2":null,"INITIALS":null,"FIRST_SET_DATE":null,"IND_NO_CALL_FLAG":"0","IND_NO_VISIT_FLAG":"0","IND_NO_EMAIL_FLAG":"0","IND_NO_MAIL_FLAG":"0","IND_NO_FAX_FLAG":"0","IND_NO_REMOTE_FLAG":null,"PRIVACY_LAW_STATUS_FLAG":"0","LNG_EID_CODE":"tr","POLITICAL_AFFILIATION_CODE":null,"PRESCRIBING_LEVEL_CODE":null,"KOL_TITLE_CODE":null,"BIRTH_DAY":null,"TRAINED_HOSPITAL":null,"SECTOR_OF_CARE_CODE":null,"PATIENTS_COUNT":null,"PRACTICE_SIZE_CODE":null,"PATIENTS_PER_DAY_CODE":null,"LIKES":null,"CLINICAL_TRIALS_FLAG":null,"CATEGORY_CODE":null,"GENDER_CODE":null,"TITLE_CODE":"00J0","ACADEMIC_TITLE_CODE":null,"BIRTH_YEAR_NUMBER":null,"DECEASED_DATE":null,"SPEAKER_STATUS_CODE":null,"SOCIAL_STYLE_CODE":null,"DISLIKES":null,"INDIVIDUAL_IDENTIFIER":60000104398140}]}}
+Updated Status to 40
+Country Found : Turkey
+TA Found , Count : 16
+TA Found with Group , Count : 1
+MIConsent Request is null 
+
+Init Cron Process for consent id 12 at 2018-04-30 02:55:13 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "LOSSAW8OUQUYW3DGQUG956DMBFJGEAZ6"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}
+
+Init Cron Process for consent id 13 at 2018-04-30 02:55:14 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "14JDE07TK7TC7RJPF9H5N3XXZ8O5VJ1B"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}

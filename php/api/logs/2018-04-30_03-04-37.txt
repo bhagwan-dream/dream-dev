@@ -1,0 +1,26 @@
+
+Init Cron Process for consent id 10 at 2018-04-30 03:04:37 PM
+
+Init Cron Process for consent id 11 at 2018-04-30 03:04:37 PM
+MI Individual found!
+Country Found : Turkey
+TA Found , Count : 16
+TA Found with Group , Count : 1
+MIConsent Request : {"CLIENT_CONSENT_IDENTIFIER":"1215251006770","CONSENT_GROUP_IDENTIFIER":"9121525100677","INDIVIDUAL_IDENTIFIER":"60000104398140","TOPIC_IDENTIFIER":"3","CHANNEL_TYPE_CODE":"EML","CHANNEL_VALUE_CODE":"OUT","EMAIL_ADDRESS":"False","ACTIVITY_STATUS_CODE":"ACTIVE","EFFECTIVE_DATE":"2018-04-30","CHANNEL_VALUE":"test1@test.com"}
+MIConsent Response : {"success":{"@odata.context":"http://test-mdigital-emea-mi.sfe.iqvia.com/MobileIntelligence/v1/$metadata#CustomerConsent_API/$entity","INDIVIDUAL_IDENTIFIER":60000104398140,"AFFILLIATION_IDENTIFIER":null,"EMPLOYEE_IDENTIFIER":null,"PRODUCT_IDENTIFIER":null,"CONSENT_SOURCE_CODE":null,"EFFECTIVE_DATE":"2018-04-29T22:00:00Z","END_DATE":null,"EMAIL_ADDRESS":false,"CHANNEL_TYPE_CODE":"EML","CHANNEL_VALUE":"test1@test.com","CHANNEL_VALUE_CODE":"OUT","DOCUMENT_ID":null,"CLIENT_CONSENT_IDENTIFIER":"1215251006770","LAST_UPDATE_DATE":"2018-04-30T00:00:00Z","CONSENT_GROUP_IDENTIFIER":9121525100677,"TOPIC_IDENTIFIER":3,"ACTIVITY_STATUS_CODE":"ACTIVE","CONSENT_IDENTIFIER":29679000275658}}
+
+Init Cron Process for consent id 12 at 2018-04-30 03:04:39 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "LOSSAW8OUQUYW3DGQUG956DMBFJGEAZ6"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}
+
+Init Cron Process for consent id 13 at 2018-04-30 03:04:41 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "14JDE07TK7TC7RJPF9H5N3XXZ8O5VJ1B"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}

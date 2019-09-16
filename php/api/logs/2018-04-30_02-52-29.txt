@@ -1,0 +1,134 @@
+
+Init Cron Process for consent id 10 at 2018-04-30 02:52:29 PM
+SearchConsent Request : {
+            "isoCod2": "TR",
+            "entityType": "Activity",
+            "fields": [{
+                "name": "individual.firstName",
+                "method": "PHONETIC",
+                "values": ["John"]}
+            ,{
+                "method" : "PHONETIC",
+                "name" : "individual.lastName",
+                "values" : [ "Fowler" ]
+            }],
+            "resultSize": "10"
+        }
+SearchConsent Response : count 2
+Updated Status to 2
+
+Init Cron Process for consent id 11 at 2018-04-30 02:52:39 PM
+SearchConsent Request : {
+            "isoCod2": "TR",
+            "entityType": "Activity",
+            "fields": [{
+                "name": "individual.firstName",
+                "method": "PHONETIC",
+                "values": ["Alladdin"]}
+            ,{
+                "method" : "PHONETIC",
+                "name" : "individual.lastName",
+                "values" : [ "Ay" ]
+            }],
+            "resultSize": "10"
+        }
+SearchConsent Response : count 26
+Updated Status to 2
+
+Init Cron Process for consent id 12 at 2018-04-30 02:52:49 PM
+SearchConsent Request : {
+            "isoCod2": "TR",
+            "entityType": "Activity",
+            "fields": [{
+                "name": "individual.firstName",
+                "method": "PHONETIC",
+                "values": ["azsxdfvb"]}
+            ,{
+                "method" : "PHONETIC",
+                "name" : "individual.lastName",
+                "values" : [ "azsxdfvb" ]
+            }],
+            "resultSize": "10"
+        }
+SearchConsent Response : count 0
+Updated Status to 1
+ValidationSubmit Request : {
+            "validation.clientRequestId": "LOSSAW8OUQUYW3DGQUG956DMBFJGEAZ6",
+            "validation.process": "C",
+            "isoCod2": "TR",
+            "validation.requestDate": "2018-04-30T14:52:50Z",
+            "validation.callDate": "2018-04-30T14:52:50Z",
+            "validation.requestProcess": "I",
+            "entityType": "ACTIVITY",
+            "individual.firstName": "azsxdfvb",
+            "individual.lastName": "azsxdfvb",
+            "individual.typeCode": "TYP.M",
+            "individual.email": "test2@test.com",
+            "individual.mobilePhone": "1245678",
+            "individual.languageEid": "tr",
+            "individual.speciality1": "S700",
+            "workplace.usualName": "test addr 3",
+            "workplace.activityLocationCode": "TIP",
+            "workplace.speciality1": "S700",
+            "address.country": "TR",
+            "address.longLabel": "None",
+            "address.city": "None",
+            "address.countyCode": "TR"
+        }
+ValidationSubmit Response : {"success":{"response":{"submitValidationRequestOutputFormatVersion":1.3,"success":true,"status":"SUCCESS","validation.clientRequestId":"QKUL932XNU3YG6USVJAPZXUWTJ4WF51Q","validation.cegedimRequestEid":"0a50f69ef9a4447d86ee4df8b76192b5","clientRequestEid":"QKUL932XNU3YG6USVJAPZXUWTJ4WF51Q","hasBeenIntegrated":true,"resultSize":1}}}
+Updated Status to 5
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "LOSSAW8OUQUYW3DGQUG956DMBFJGEAZ6"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}
+
+Init Cron Process for consent id 13 at 2018-04-30 02:52:51 PM
+SearchConsent Request : {
+            "isoCod2": "TR",
+            "entityType": "Activity",
+            "fields": [{
+                "name": "individual.firstName",
+                "method": "PHONETIC",
+                "values": ["gjhjghk"]}
+            ,{
+                "method" : "PHONETIC",
+                "name" : "individual.lastName",
+                "values" : [ "dkjfjgh" ]
+            }],
+            "resultSize": "10"
+        }
+SearchConsent Response : count 0
+Updated Status to 1
+ValidationSubmit Request : {
+            "validation.clientRequestId": "14JDE07TK7TC7RJPF9H5N3XXZ8O5VJ1B",
+            "validation.process": "C",
+            "isoCod2": "TR",
+            "validation.requestDate": "2018-04-30T14:52:53Z",
+            "validation.callDate": "2018-04-30T14:52:53Z",
+            "validation.requestProcess": "I",
+            "entityType": "ACTIVITY",
+            "individual.firstName": "gjhjghk",
+            "individual.lastName": "dkjfjgh",
+            "individual.typeCode": "TYP.M",
+            "individual.email": "test3@test.com",
+            "individual.mobilePhone": "5646",
+            "individual.languageEid": "tr",
+            "individual.speciality1": "S700",
+            "workplace.usualName": "test addr 4",
+            "workplace.activityLocationCode": "TIP",
+            "workplace.speciality1": "S700",
+            "address.country": "TR",
+            "address.longLabel": "None",
+            "address.city": "None",
+            "address.countyCode": "TR"
+        }
+ValidationSubmit Response : {"success":{"response":{"submitValidationRequestOutputFormatVersion":1.3,"success":true,"status":"SUCCESS","validation.clientRequestId":"KP3XD8J536UOW8J69R6PKH964W3YBCCN","validation.cegedimRequestEid":"1efe01bdd04647918ba8d0c11b9b24e1","clientRequestEid":"KP3XD8J536UOW8J69R6PKH964W3YBCCN","hasBeenIntegrated":true,"resultSize":1}}}
+Updated Status to 5
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "14JDE07TK7TC7RJPF9H5N3XXZ8O5VJ1B"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}

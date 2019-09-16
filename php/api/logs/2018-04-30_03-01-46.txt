@@ -1,0 +1,24 @@
+
+Init Cron Process for consent id 10 at 2018-04-30 03:01:46 PM
+
+Init Cron Process for consent id 11 at 2018-04-30 03:01:46 PM
+Country Found : Turkey
+TA Found , Count : 16
+TA Found with Group , Count : 1
+MIConsent Request is null 
+
+Init Cron Process for consent id 12 at 2018-04-30 03:01:46 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "LOSSAW8OUQUYW3DGQUG956DMBFJGEAZ6"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}
+
+Init Cron Process for consent id 13 at 2018-04-30 03:01:48 PM
+OneKeyStatus Request : {
+            "codBase": "WTR",
+            "entityType": "ACTIVITY",
+            "validation.clientRequestId": "14JDE07TK7TC7RJPF9H5N3XXZ8O5VJ1B"
+        }
+OneKeyStatus Response : {"success":{"response":{"traceValidationRequestOutputFormatVersion":1.7,"success":true,"status":"SUCCESS","totalNumberOfResults":0,"resultSize":0,"results":[]}}}
